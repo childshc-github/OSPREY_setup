@@ -1,7 +1,7 @@
 # RESISTOR_setup
 Updated install script for RESISTOR protocol from sarisabban/Notes.
 Updates:
-added code to create + parse install scripts into 3 (to account for shell restarts)
+added code to create + parse install scripts into 3 (to account for shell restarts) \n
 tweaked code to echo into files correctly (no var expansion for paths)
 Corrected conda source path in install 2 - missing software/
 added terminal prompts
