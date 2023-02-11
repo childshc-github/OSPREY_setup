@@ -1,7 +1,7 @@
 # RESISTOR_setup
 Updated install script for RESISTOR protocol from sarisabban/Notes.
 
-Prereqs:
+Notes:
 
 1. Do not have an existing directory named "software"
 
