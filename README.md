@@ -1,7 +1,23 @@
 # RESISTOR_setup
 Updated install script for RESISTOR protocol from sarisabban/Notes.
 
-Updates:
+Prereqs:
+
+Do not have an existing directory named "software"
+
+If you have an existing .bash_profile, remove line 19
+
+
+
+View the paper here: https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0254
+
+
+
+
+
+
+
+Updates log:
 
 added code to create + parse install scripts into 3 (to account for shell restarts)
 
@@ -14,5 +30,3 @@ added terminal prompts
 tweaked folder changes (in/out of software/)
 
 corrected for env changes on startup
-
-View the paper here: https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0254
