@@ -3,9 +3,9 @@ Updated install script for RESISTOR protocol from sarisabban/Notes.
 
 Prereqs:
 
-Do not have an existing directory named "software"
+1. Do not have an existing directory named "software"
 
-If you have an existing .bash_profile, remove line 19
+2. If you have an existing .bash_profile, remove line 19
 
 
 
