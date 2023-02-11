@@ -1,4 +1,4 @@
-# RESISTOR_setup
+# OSPREY_setup
 Updated install script for RESISTOR protocol from sarisabban/Notes.
 
 Notes:
