@@ -1,5 +1,6 @@
 # RESISTOR_setup
 Updated install script for RESISTOR protocol from sarisabban/Notes.
+
 Updates:
 
 added code to create + parse install scripts into 3 (to account for shell restarts)
