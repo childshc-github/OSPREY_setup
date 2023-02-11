@@ -13,4 +13,6 @@ added terminal prompts
 
 tweaked folder changes (in/out of software/)
 
+corrected for env changes on startup
+
 View the paper here: https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0254
