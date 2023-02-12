@@ -8,7 +8,7 @@ Notes:
 
 3. If you have an existing .bash_profile, remove line 19
 
-4. Run the script in your /home/username/ directory 
+4. Run the script in your /home/user/ directory 
 
 
 
