@@ -1,9 +1,9 @@
 # Install script for OSPREY's RESISTOR Protocol
 #================================
 # create files 
-mkdir $HOME/install_osprey1.sh
-mkdir $HOME/install_osprey2.sh
-mkdir $HOME/install_osprey3.sh
+mkdir $HOME/install_osprey1
+mkdir $HOME/install_osprey2
+mkdir $HOME/install_osprey3
 #==========================
 # code for install 1
 echo "
@@ -16,7 +16,7 @@ wget -q https://download.java.net/java/GA/jdk17.0.2/dfd4a8d0985749f896bed50d7138
 echo 'Extracting openjdk-17.0.2'
 tar -xf openjdk-17.0.2_linux-x64_bin.tar.gz
 rm openjdk-17.0.2_linux-x64_bin.tar.gz
-touch .bash_profile
+touch \$HOME/.bash_profile
 echo 'export JAVA_HOME=\$HOME/software/jdk-17.0.2' >> \$HOME/.bash_profile
 echo 'export PATH=\$PATH:\$JAVA_HOME/bin' >> \$HOME/.bash_profile
 echo '' >> \$HOME/.bash_profile
