@@ -1,9 +1,9 @@
 # Install script for OSPREY's RESISTOR Protocol
 #================================
 # create files 
-mkdir $HOME/install_osprey1
-mkdir $HOME/install_osprey2
-mkdir $HOME/install_osprey3
+touch $HOME/install_osprey1.sh
+touch $HOME/install_osprey2.sh
+touch $HOME/install_osprey3.sh
 #==========================
 # code for install 1
 echo "
