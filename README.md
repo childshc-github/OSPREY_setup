@@ -7,6 +7,8 @@ Notes:
 
 2. If you have an existing .bash_profile, remove line 19
 
+3. Run the script in your /home/username/ directory 
+
 
 
 View the paper here: https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0254
