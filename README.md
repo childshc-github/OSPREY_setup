@@ -12,6 +12,8 @@ Updated install script for RESISTOR protocol from sarisabban/Notes.
 
 - Recommendation: If you are a Duke University student, I recommend requesting a Duke VM (virtual machine) and performing the install as an admin. I recommend performing all file prep (preparing a YAML file) on the VM, then submitting to the CS cluster for any redesigns. 
 
+***
+
 ### Usage
 
 #### 1. RESISTOR_setup.sh
@@ -32,6 +34,8 @@ Updated install script for RESISTOR protocol from sarisabban/Notes.
 #### 3. install_osprey3.sh
 - Invoke the script via ./install_osprey3.sh
 
+***
+
 ### Running OSPREY protocols
 - When performing calculations, such as K*, you will need to ensure the environments are properly activated.
 
@@ -43,6 +47,8 @@ source software/miniconda3/etc/profile.d/conda.sh
 
 conda activate AmberTools22
 
+***
+
 ### Troubleshooting
 
 There are a number of areas where this script may fail. If you recieve install errors, the best method is to simply delete all installs (including the "software" directory and .bash_profile) and rerun. Most errors arise from attempting to install in an environment with conflicts (i.e., a preexisting "software" directory, prior install PATHs in .bash_profile, etc.).
@@ -51,5 +57,6 @@ If you recieve the "julia --version: command not found" error, perform the follo
 
 source $HOME/.bash_profile
 
+***
 
 View the K* paper here: https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0254
