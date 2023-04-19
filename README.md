@@ -31,8 +31,16 @@ Updated install script for RESISTOR protocol from sarisabban/Notes.
 #### install_osprey3.sh
 - Invoke the script via ./install_osprey3.sh
 
+### Running OSPREY protocols
+- When performing calculations, such as K*, you will need to ensure the environments are properly activated.
 
+- Upon login to the VM (or wherever the install script was run), activate your conda environment with:
 
+source software/miniconda3/etc/profile.d/conda.sh
+
+- Activate your AmberTools env with:
+
+conda activate AmberTools22
 
 ### Troubleshooting
 
