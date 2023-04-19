@@ -28,10 +28,10 @@ Updated install script for RESISTOR protocol from sarisabban/Notes.
 
 - Type "y" in response to any julia download prompts. Once the script has finished, restart your shell.
 
-#### install_osprey3.sh
+#### 3. install_osprey3.sh
 - Invoke the script via ./install_osprey3.sh
 
-### 3. Running OSPREY protocols
+### Running OSPREY protocols
 - When performing calculations, such as K*, you will need to ensure the environments are properly activated.
 
 - Upon login to the VM (or wherever the install script was run), activate your conda environment with:
