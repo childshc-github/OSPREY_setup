@@ -22,7 +22,7 @@ Updated install script for RESISTOR protocol from sarisabban/Notes.
 
 - Invoke the script using ./RESISTOR_setup.sh. You will recieve a terminal output stating the estimated install time. You will then type "yes" (or "y") in response to any prompts from the miniconda3 install.
 
-- NOTE: When prompted, set your PATH for miniconda3 to $HOME/software/miniconda3
+- IMPORTANT: When prompted, set your PATH for miniconda3 to $HOME/software/miniconda3
 
 - After you are told the script has finished installing, restart your terminal to ensure all downloads are successfull.
 
