@@ -70,7 +70,7 @@ echo 'Estimated install time: <1 minute'
 echo ''
 source software/miniconda3/etc/profile.d/conda.sh
 conda activate AmberTools22
-source $HOME/.bash_profile
+source \$HOME/.bash_profile
 julia --version
 cd software
 wget -q https://github.com/donaldlab/OSPREY3/releases/download/3.3-resistor/osprey-3.3.tar
