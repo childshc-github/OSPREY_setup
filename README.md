@@ -2,7 +2,7 @@
 Updated install script for RESISTOR protocol from sarisabban/Notes.
 
 ### Requirements:
-1. User must be using a Linux environment. This script will not work if attempting to install to a Windows environment. The scripts are invoked via ./scipt.sh
+1. User must be using a Linux environment. This script will not work if attempting to install to a Windows environment. The scripts are invoked via ./script.sh
 
 2. Do not have an existing directory named "software"
 
