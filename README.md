@@ -47,4 +47,4 @@ conda activate AmberTools22
 There are a number of areas where this script may fail. If you recieve install errors, the best method is to simply delete all installs (including the "software" directory and .bash_profile) and rerun. If this script is run in an environment with no conflicts (i.e., a preexisting "software" directory, prior install PATHs in .bash_profile, etc.) there should be no hiccups.
 
 
-View the paper here: https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0254
+View the K* paper here: https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0254
