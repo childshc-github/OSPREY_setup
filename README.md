@@ -12,7 +12,7 @@ Updated install script for RESISTOR protocol from sarisabban/Notes.
 
 ### Usage
 
-#### RESISTOR_setup.sh
+#### 1. RESISTOR_setup.sh
 - Recommendation: If you are a Duke University student, I recommend requesting a Duke VM (virtual machine) and performing the install as an admin.
 
 - Obtain the RESISTOR_setup.sh file from this GitHub page. Move it into your /home/user/ directory, and give permissions (chmod +x RESISTOR_setup.sh). If you are using an IDE such as VSCode, you will notice the color of the file will change, meaning you have successfully been given permissions.
@@ -23,7 +23,7 @@ Updated install script for RESISTOR protocol from sarisabban/Notes.
 
 - After you are told the script has finished installing, restart your terminal to ensure all downloads are successfull.
 
-#### install_osprey2.sh
+#### 2. install_osprey2.sh
 - Invoke via ./install_osprey2.sh. There is no need to give permissions for any more files (this is done in the prior script).
 
 - Type "y" in response to any julia download prompts. Once the script has finished, restart your shell.
@@ -31,7 +31,7 @@ Updated install script for RESISTOR protocol from sarisabban/Notes.
 #### install_osprey3.sh
 - Invoke the script via ./install_osprey3.sh
 
-### Running OSPREY protocols
+### 3. Running OSPREY protocols
 - When performing calculations, such as K*, you will need to ensure the environments are properly activated.
 
 - Upon login to the VM (or wherever the install script was run), activate your conda environment with:
