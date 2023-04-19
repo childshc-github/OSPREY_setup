@@ -16,7 +16,7 @@ Updated install script for RESISTOR protocol from sarisabban/Notes.
 
 #### 1. RESISTOR_setup.sh
 
-- Obtain the RESISTOR_setup.sh file from this GitHub page. Move it into your /home/user/ directory, and give permissions (chmod +x RESISTOR_setup.sh). If you are using an IDE such as VSCode, you will notice the color of the file will change, meaning you have successfully been given permissions.
+- Obtain the RESISTOR_setup.sh file from this GitHub page. Move it into your /home/user/ directory, and give permissions (chmod +x RESISTOR_setup.sh). If you are using an IDE such as VSCode, you will notice the color of the file will change, meaning you have successfully given permissions.
 
 - Invoke the script using ./RESISTOR_setup.sh. You will recieve a terminal output stating the estimated install time. You will then type "yes" (or "y") in response to any prompts from the miniconda3 install.
 
