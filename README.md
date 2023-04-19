@@ -13,7 +13,7 @@ Updated install script for RESISTOR protocol from sarisabban/Notes.
 ### Usage
 
 #### 1. RESISTOR_setup.sh
-- Recommendation: If you are a Duke University student, I recommend requesting a Duke VM (virtual machine) and performing the install as an admin.
+- Recommendation: If you are a Duke University student, I recommend requesting a Duke VM (virtual machine) and performing the install as an admin. I recommend performing all file prep (preparing a YAML file) on the VM, then submitting to the CS cluster for any redesigns. 
 
 - Obtain the RESISTOR_setup.sh file from this GitHub page. Move it into your /home/user/ directory, and give permissions (chmod +x RESISTOR_setup.sh). If you are using an IDE such as VSCode, you will notice the color of the file will change, meaning you have successfully been given permissions.
 
