@@ -1,4 +1,4 @@
-# OSPREY (Open-Source Protein Redesign For You) Install Script
+# OSPREY (Open-Source Protein REdesign for You) Install Script
 Updated install script for RESISTOR protocol from sarisabban/Notes.
 
 ### Requirements:
