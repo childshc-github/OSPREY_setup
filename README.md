@@ -59,4 +59,4 @@ source $HOME/.bash_profile
 
 ***
 
-View the K* paper here: https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0254
+View the RESISTOR paper here: https://pubmed.ncbi.nlm.nih.gov/37115667/
